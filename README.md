@@ -1,1 +1,6 @@
 # awsrepo
+
+
+#git 
+#linux
+#jenkins
